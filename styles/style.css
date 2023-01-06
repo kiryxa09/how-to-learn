@@ -151,6 +151,7 @@
   font-size: 60px;
   font-weight: 600;
   z-index: 2;
+  position: relative;
 }
 
 .section-subtitle {
@@ -169,6 +170,7 @@
   font-size: 24px;
   font-weight: normal;
   z-index: 2;
+  position: relative;
 }
 
 .table {
@@ -275,6 +277,7 @@
 
 .kaufman__triangle {
   background-image: url(../images/kaufman-triangle.svg);
+  background-size: 877px 877px;
   width: 877px;
   height: 877px;
   position: absolute;
